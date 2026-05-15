@@ -1,0 +1,20 @@
+# ~/.config/wofi/config
+# made by kst - kstlolus@proton.me
+# github: https://github.com/ksterajewicz/arch_linux_rice-beta1.2
+
+show=drun
+prompt=
+width=480
+height=400
+location=center
+allow_images=true
+allow_markup=false
+no_actions=true
+hide_scroll=true
+insensitive=true
+matching=fuzzy
+prefer_dark_theme=true
+gtk_dark=true
+key_expand=Tab
+term=kitty
+columns=1
