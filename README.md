@@ -23,4 +23,6 @@ Programs needed: -hyprland
                  -asusctl
                  -rog-control-center
                  -ufw
+                 -pipewire
+                 
 
