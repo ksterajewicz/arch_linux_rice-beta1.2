@@ -22,4 +22,5 @@ Programs needed: -hyprland
                  -cava
                  -asusctl
                  -rog-control-center
+                 -ufw
 
