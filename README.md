@@ -20,4 +20,6 @@ Programs needed: -hyprland
                  -pulse
                  -yay
                  -cava
+                 -asusctl
+                 -rog-control-center
 
